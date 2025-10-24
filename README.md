@@ -1,2 +1,3 @@
-# Assignment2
-Assignment2 in 3 parts
+# Assignment2part1
+Assignment2part1
+
